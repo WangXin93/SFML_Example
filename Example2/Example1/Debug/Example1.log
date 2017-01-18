@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/1/18 14:24:06。
+     1>项目“G:\SFML_Example\Example2\Example1\Example1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Example1.cpp
+         Example1.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\SFML_Example\Example2\Debug\Example1.exe" /INCREMENTAL /NOLOGO "sfml-system-d.lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\SFML_Example\Example2\Debug\Example1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\SFML_Example\Example2\Debug\Example1.lib" /MACHINE:X86 Debug\Example1.obj
+         Debug\stdafx.obj
+         Example1.vcxproj -> G:\SFML_Example\Example2\Debug\Example1.exe
+     1>已完成生成项目“G:\SFML_Example\Example2\Example1\Example1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.04
