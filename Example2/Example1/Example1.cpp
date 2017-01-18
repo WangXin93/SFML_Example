@@ -15,6 +15,8 @@ int _tmain(int argc, _TCHAR* argv[])
 		game.HandleInput();
 		game.Update();
 		game.Render();
+		//sf::sleep(sf::seconds(0.01));
+		game.RestartClock();
 	}
 	return 0;
 }
