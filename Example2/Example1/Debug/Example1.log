@@ -1,15 +1,17 @@
-﻿生成启动时间为 2017/1/18 18:14:54。
-     1>项目“G:\SFML_Example\Example2\Example1\Example1.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2017/4/27 12:33:55。
+     1>项目“E:\SFML_Example\Example2\Example1\Example1.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Example1.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Example1.cpp stdafx.cpp
+         stdafx.cpp
          Example1.cpp
-     1>g:\sfml_example\example2\example1\example1.cpp(18): warning C4305: “参数”: 从“double”到“float”截断
+         正在生成代码...
        Link:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\SFML_Example\Example2\Debug\Example1.exe" /INCREMENTAL /NOLOGO "sfml-system-d.lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\SFML_Example\Example2\Debug\Example1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\SFML_Example\Example2\Debug\Example1.lib" /MACHINE:X86 Debug\Example1.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SFML_Example\Example2\Debug\Example1.exe" /INCREMENTAL /NOLOGO "sfml-system-d.lib" "sfml-main-d.lib" "sfml-graphics-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\SFML_Example\Example2\Debug\Example1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SFML_Example\Example2\Debug\Example1.lib" /MACHINE:X86 Debug\Example1.obj
          Debug\stdafx.obj
-         Example1.vcxproj -> G:\SFML_Example\Example2\Debug\Example1.exe
-     1>已完成生成项目“G:\SFML_Example\Example2\Example1\Example1.vcxproj”(Build 个目标)的操作。
+         LINK : 没有找到 E:\SFML_Example\Example2\Debug\Example1.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Example1.vcxproj -> E:\SFML_Example\Example2\Debug\Example1.exe
+     1>已完成生成项目“E:\SFML_Example\Example2\Example1\Example1.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:01.06
+已用时间 00:00:01.04
